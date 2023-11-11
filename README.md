@@ -1,6 +1,6 @@
 # Pointers-in-Function-Call-in-C-language
 
-#Call by value:
+# Call by value:
 
 In function calling, we pass arguments by value. The call function creates a new set of variables and copies the value of arguments into them.
 
@@ -36,7 +36,7 @@ printf("In main function value of a and b is %d %d",a,b);
 
 
 
-#Call by reference:
+# Call by reference:
 C allows us to pass arguments to the functions bypassing the address of a variable. By using this, function working on the original data instead of copies of values.
  void swap(int *, int "); //prototype
 
