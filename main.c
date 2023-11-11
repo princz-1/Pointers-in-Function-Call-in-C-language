@@ -1,3 +1,4 @@
+//Basic Code
 #include <stdio.h>
 void square(int n);
 void _square(int*n);
